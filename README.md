@@ -5,7 +5,7 @@ The program is written in Python3.
 
 #### Conventions for a strong Password:
 1. Password should contain an UpperCase Character.
-2. Password should contain an LowerCase Character.
+2. Password should contain a LowerCase Character.
 3. Password should contain a Digit.
 4. Password should contain a Special Character.
 5. Password should contain at least 8 Characters.

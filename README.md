@@ -3,7 +3,7 @@
 It is a simple and a powerful program to generate strong passwords. \
 The program is written in Python3. 
 
-#### Conventions for a strong Password:\
+#### Conventions for a strong Password:
 1. Password should contain an UpperCase Character.
 2. Password should contain an LowerCase Character.
 3. Password should contain a Digit.

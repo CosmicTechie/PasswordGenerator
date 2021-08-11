@@ -12,7 +12,5 @@ The program is written in Python3.
 
 This Program keeps up to generate a strong password as per your requirements and also helps to save the passwords to a txt file for you convenience. You can save the file in a secure location.
 
-
+## If you Like it, Please support me.
 <a href="https://www.buymeacoffee.com/cosmictechie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<a href="https://www.buymeacoffee.com/cosmictechie"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=cosmictechie&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>

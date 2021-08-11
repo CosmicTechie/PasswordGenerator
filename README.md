@@ -11,3 +11,5 @@ The program is written in Python3.
 5. Password should contain at least 8 Characters.
 
 This Program keeps up to generate a strong password as per your requirements and also helps to save the passwords to a txt file for you convenience. You can save the file in a secure location.
+
+<a href="https://www.buymeacoffee.com/cosmictechie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
